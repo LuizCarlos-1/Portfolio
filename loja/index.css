@@ -1,0 +1,124 @@
+.logo2 {
+
+  height: 160px;
+  width: 150px;
+  justify-content: center;
+  margin: 30px;
+}
+
+.side-bar {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+
+
+
+.botãof {
+  font-size: 20px;
+  justify-content: center;
+  padding: 10px;
+
+}
+
+.botãoc {
+  font-size: 20px;
+  justify-content: center;
+  padding: 10px;
+
+}
+
+.botãop {
+  font-size: 20px;
+  justify-content: center;
+  padding: 10px;
+}
+
+
+.buscar {
+  font-size: 30px;
+  padding: 10px;
+}
+
+header {
+  justify-content: center;
+  background-color: beige;
+  border: 8px solid black;
+  flex-direction: column;
+}
+
+.cam {
+  font-size: 40px;
+  justify-content: center;
+  text-align: center;
+}
+
+.meubanner {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+}
+
+.categoria {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding:20px ;
+}
+
+.botao-categoria {
+  width: 150px;
+  padding: 8px;
+  border-radius: 20px;
+  justify-content: center;
+}
+
+.camisa {
+  width: 120px;
+  height: 100px;
+  margin: 5px;
+}
+
+.card img {
+  width: 160px;
+  height: 150px;
+
+}
+
+
+
+.card {
+  border: 2px solid black;
+  text-align: center;
+
+}
+
+.redes {
+
+  border: 2px solid black;
+  text-align: center;
+}
+
+.medo {
+  text-align: center;
+}
+
+.amor {
+  text-align: center;
+}
+
+.quero {
+  text-align: center;
+}
+
+.cardP {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+ 
+.but{
+  background-color:wheat;
+
+}
